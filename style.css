@@ -1,0 +1,63 @@
+.card {
+    margin: auto;
+}
+
+#section1, #section2, #section3, #section4 {
+    background-color: #352e27ce;
+}
+
+#titulos, #titulos1, #tituloInicial {
+    font-family: 'Work Sans', sans-serif;
+    color: #ece0d3ce;
+}
+
+
+#TextoNossaHistoria, #textoDepoimentos, #textoCortes {
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+#divisao, .bg-color {
+    background-color: #352e27ce;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+footer {
+    background-color: #2A2D34;
+}
+
+#criador {
+    color: white;
+}
+
+#letras, #tituloDepoimentos {
+    color: #ece0d3ce;
+}
+
+.formataContainer {
+    padding: 0px;
+    width: 800px;
+    height: 460px;
+}
+
+#mapa iframe {
+    width: 60%;
+    height: 250px;
+}
+
+.whats {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+}
+
+#primeiroH1 {
+    padding-top: 70%; 
+    font-size: 60px;
+}
